@@ -155,7 +155,7 @@ What:   Electronic Cafe for Internet Art
 Where:  MacLean Building, Room 807
 Where:  116 S Michigan Ave. Chicago IL 60601
 When:   Thursday, Dec 14th, 15:30 - 17:30                                                                                                                 
-Who:    Amelia Kim, Viv Adamian, Laen Chan, Mello, Yuwen Huang, Emmet Stephens, Nimrod Astarhan, Ahmed Balto
+Who:    Amelia Kim, Viv Adamian, Laen Chan, Mello, Yuwen Huang, Emmet Stephens, Nimrod Astarhan, Ahmed Balto, yiyi liu, Mina Crow, Izabella "Bella" Podowski
 Expect: 
 
 An end-of-year event by the Net Art && Cultures class showcasing creative, interactive, and community-based networked practices, websites, and artworks. The event traces the seminal 84' work by Kit Galloway and Sherrie Rabinowitz, Electronic Cafe Network. It borrows its primary value of integration and imagines an informed site for community, art, technology, and cross-cultural communications. 
